@@ -65,6 +65,18 @@ I specialize in **machine learning, deep learning, NLP, reinforcement learning, 
 
 ---
 
+## 📂 Featured Projects  
+
+- **Hotel Analysis in Brazil** – Cleaned and transformed 10,000+ records with Excel & Power Query; built dashboards to analyze occupancy & revenue trends.  
+- **Shop Dataset Creation and Analysis** – Designed a relational database in MySQL; visualized customer behavior & sales trends with Power BI.  
+- **Reinforcement Learning (RL) Project** – Implemented Q-learning with PyTorch, boosting agent success rate by 15% in a grid environment.  
+- **Airport Database & Reservation Website** – Built PostgreSQL database; developed responsive booking site with HTML, CSS, JS & Flask.  
+- **Weather History Prediction** – Forecasted weather patterns using LSTM/GRU; evaluated with MAE & RMSE metrics.  
+- **Human Activity Recognition** – Classified movements from sensor data using LSTM, achieving 85% accuracy.  
+- **Audio Classification** – Built CNN models on UrbanSound8K & ESC-50 datasets using TensorFlow; feature extraction with Librosa & MFCCs.  
+
+---
+
 ## 📌 Currently Exploring  
 - Reinforcement Learning & Generative AI  
 - MLOps (MLflow, Docker, Airflow)  
@@ -98,6 +110,7 @@ I specialize in **machine learning, deep learning, NLP, reinforcement learning, 
 ![Profile Views](https://komarev.com/ghpvc/?username=rowan122&color=blue&style=flat-square)  
 
 ⭐️ *Curious mind, data-driven thinker, and AI enthusiast – always ready to learn, build, and share knowledge.*  
+
 
 <!--
 **rowan122/rowan122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
