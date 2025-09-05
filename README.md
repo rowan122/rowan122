@@ -37,10 +37,7 @@ I specialize in **machine learning, deep learning, NLP, reinforcement learning, 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)  
 ![Deep Learning Specialization](https://img.shields.io/badge/Deep_Learning-Coursera-orange?style=for-the-badge&logo=deeplearningai&logoColor=white)  
 ![Data Science Professional](https://img.shields.io/badge/Data_Science-IBM-blue?style=for-the-badge&logo=ibm&logoColor=white)  
-![SQL for Data Analysis](https://img.shields.io/badge/SQL-Mode-blue?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Statistics for Data Science](https://img.shields.io/badge/Statistics-Edx-green?style=for-the-badge&logo=edx&logoColor=white)  
-![Time Series Forecasting](https://img.shields.io/badge/Time_Series-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)  
-![Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-F7991D?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![SQL for Data Analysis](https://img.shields.io/badge/SQL-Mode-blue?style=for-the-badge&logo=postgresql&logo)
 
 ---
 
